@@ -10,14 +10,13 @@ p {
 }
 .left-container {
     display: flex;
+    margin: 50px;
+
 }
 .left-par{
-    display: flex;
     max-width: 300px;
     margin: 50px;
 }
 .left-pic{
-    display: flex;
-    max-width: 300px;
     margin: 50px;
 }
