@@ -1,5 +1,5 @@
 body{
-    background-color: lightsteelblue;
+    background-color: #493636;
 }
 h1 {
     font-family: "Book Antiqua", serif;
@@ -17,7 +17,11 @@ p {
 .left-par{
     max-width: 300px;
     margin: 50px;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 10px;
 }
-/*.left-pic{*/
-/*    margin: 50px;*/
-/*}*/
+.left-pic{
+    margin: 50px;
+    border-radius: 10px;
+}
