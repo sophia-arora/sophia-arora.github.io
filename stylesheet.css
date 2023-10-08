@@ -28,9 +28,10 @@ p {
 #flowers{
     display: flex;
     margin: 25px;
+    flex-direction: row;
     /*height: 30px;*/
     /*width: 30px;*/
-    align-content: center;
+    /*align-content: center;*/
 }
 .pics{
     margin: 25px;
