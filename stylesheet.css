@@ -26,6 +26,7 @@ p {
     border-radius: 10px;
 }
 #flowers{
+    display: flex;
     margin: 25px;
     /*height: 30px;*/
     /*width: 30px;*/
