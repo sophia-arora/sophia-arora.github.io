@@ -11,6 +11,6 @@ p {
 
 .left-par{
     display: flex;
-    width: 500px;
+    max-width: 500px;
     margin: 50px;
 }
