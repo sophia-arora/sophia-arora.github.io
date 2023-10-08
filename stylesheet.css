@@ -2,10 +2,13 @@ h1 {
     font-family: "Book Antiqua", serif;
     text-align: center;
 }
+p {
+    font-family: "Book Antiqua", serif;
+}
 body{
-    background-color: #858e9a;
+    background-color: #808996;
 }
 .left-par{
     display: flex;
-    width: 300px;
+    width: 200px;
 }
