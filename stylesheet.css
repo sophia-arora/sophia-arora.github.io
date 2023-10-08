@@ -10,6 +10,7 @@ p {
 }
 .left-container {
     display: flex;
+    flex-direction: row;
     margin: 50px;
 
 }
@@ -17,6 +18,6 @@ p {
     max-width: 300px;
     margin: 50px;
 }
-.left-pic{
-    margin: 50px;
-}
+/*.left-pic{*/
+/*    margin: 50px;*/
+/*}*/
