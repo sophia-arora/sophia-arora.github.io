@@ -25,7 +25,13 @@ p {
     padding: 10px;
     border-radius: 10px;
 }
-.left-pic{
+#left-pic{
+    margin: 25px;
+    border-radius: 10px;
+    background-color: #eae0d5;
+    padding: 20px;
+}
+#right-pic{
     margin: 25px;
     border-radius: 10px;
     background-color: #eae0d5;
