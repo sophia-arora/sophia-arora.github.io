@@ -1,3 +1,7 @@
 h1 {
     font-family: "Book Antiqua", serif;
+    text-align: center;
+}
+body{
+    background-color: lightslategrey;
 }
