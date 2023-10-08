@@ -25,12 +25,11 @@ p {
     padding: 10px;
     border-radius: 10px;
 }
-/*#left-pic{*/
-/*    margin: 25px;*/
-/*    border-radius: 10px;*/
-/*    background-color: #eae0d5;*/
-/*    padding: 20px;*/
-/*}*/
+#flowers{
+    margin: 25px;
+    height: 100px;
+    width: 100px;
+}
 .pics{
     margin: 25px;
     border-radius: 10px;
