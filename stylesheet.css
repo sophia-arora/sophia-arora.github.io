@@ -1,9 +1,12 @@
 body{
-    background-color: #493636;
+    background-color: #896c7b;
 }
 h1 {
     font-family: "Book Antiqua", serif;
     text-align: center;
+    background-color: #eae0d5;
+    padding: 10px;
+    border-radius: 10px;
 }
 p {
     font-family: "Book Antiqua", serif;
@@ -15,13 +18,14 @@ p {
 
 }
 .left-par{
+    font-family: "Book Antiqua", serif;
     max-width: 300px;
-    margin: 50px;
-    background-color: bisque;
+    margin: 25px;
+    background-color: #eae0d5;
     padding: 10px;
     border-radius: 10px;
 }
 .left-pic{
-    margin: 50px;
+    margin: 25px;
     border-radius: 10px;
 }
