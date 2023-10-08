@@ -8,9 +8,16 @@ h1 {
 p {
     font-family: "Book Antiqua", serif;
 }
-
+.left-container {
+    display: flex;
+}
 .left-par{
     display: flex;
-    max-width: 500px;
+    max-width: 300px;
+    margin: 50px;
+}
+.left-pic{
+    display: flex;
+    max-width: 300px;
     margin: 50px;
 }
