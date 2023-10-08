@@ -27,7 +27,7 @@ p {
 }
 .flowers{
     display: flex;
-    margin: 25px;
+    margin:50px;
     flex-direction: row;
     /*height: 30px;*/
     /*width: 30px;*/
